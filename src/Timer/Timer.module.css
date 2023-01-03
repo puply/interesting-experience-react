@@ -1,0 +1,9 @@
+.timercss{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 5px solid rgb(116, 109, 109);
+    border-radius: 15px;
+    padding: .8rem 1.5rem;
+    justify-content: space-around;
+}
